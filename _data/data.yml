@@ -51,8 +51,9 @@ career-profile:
     summary: |
       Software developer with 6 years of experience across machine learning, data engineering and full stack web-development.
       Worked as a data analyst in the insurance industry creating dashboards and helping gaining insight in customer data,
-      transitioned to machine learning in the life science industry, and has recently
-      worked as a data engineer. On top, I have been building full-stack side projects with web-technologies for the past year.
+      transitioned to machine learning in the life science industry building FDA and MDR cleared products, and has recently
+      worked as a data engineer developing data pipelines in Python and SQL, while managing PostgreSQL databases and cloud storage in Azure Cloud.
+      On top, I have been building full-stack side projects with web-technologies for the past year.
       Passionate about leveraging data and technology to drive innovation and improve outcomes in diverse industries.
 education:
     title: Education
